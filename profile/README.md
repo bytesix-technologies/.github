@@ -89,14 +89,6 @@ We are selective by design. Good software requires technical autonomy, realistic
 
 <h2 align="center">🧩 Selected Experience</h2>
 
-<h3 align="center">🌎 SIA Hidreletricas</h3>
-
-BYTESIX rebuilt and evolved **SIA Hidreletricas**, an environmental information system in production for the hydropower context.
-
-The project demonstrates our ability to deliver complete software systems involving backend, frontend, database modeling, geospatial data, maps, infrastructure, deployment, documentation, support, and ongoing evolution.
-
-Technologies and capabilities involved include TypeScript, NestJS, GraphQL, React, PostgreSQL, PostGIS, OpenLayers, modular architecture, and production system maintenance.
-
 <h3 align="center">🧠 Technical Background</h3>
 
 BYTESIX was founded by Luiz Bortoluzzi, a full-stack software developer with experience in Brazilian and international software projects, including demanding technical environments such as financial systems, web platforms, ERPs, HR systems, geospatial systems, integrations, and production-grade business applications.
